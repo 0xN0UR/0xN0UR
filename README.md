@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**0xM4R4M/0xM4R4M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey there, I'm Maram 👾
 
-Here are some ideas to get you started:
+### Cybersecurity Student | CTF Beginner
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔐 Currently exploring the world of cybersecurity.
+
+- 🐧 Learning Linux
+- 💻 Exploring Python
+- 🌐 Studying Computer Networking
+- 🧩 Practicing CTF challenges
+- 🔎 Interested in Ethical Hacking
+
+### What I'm Learning
+- Linux fundamentals
+- Networking basics
+- Cryptography
+- Web security
+- Capture The Flag (CTF)
+
+### My Journey
+Documenting what I learn, the challenges I solve,
+and the mistakes I make along the way.
+
+One step at a time. 🚀
